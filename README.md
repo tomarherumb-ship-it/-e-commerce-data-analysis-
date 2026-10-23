@@ -31,7 +31,8 @@ This project focuses on analyzing e-commerce sales data to understand sales perf
 - What business opportunities can be identified from the data?
 
 ## 📈 Dashboard Preview
-Add a screenshot of your Power BI dashboard here once it is available.
+<img width="1366" height="768" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/cf90a01a-75d1-430d-88d1-cc58d1f4a6e5" />
+
 
 ## 💡 Key Insights
 Key findings will be added after completing the analysis, including sales performance, top-performing products, regional trends, and customer insights.
